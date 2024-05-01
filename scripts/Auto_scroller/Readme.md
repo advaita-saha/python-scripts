@@ -9,4 +9,5 @@ if yes then you are at the right spot here is gift from me to save your hand
  <br>
 now run this main.py file in your terminal and use head gestures for scroling 
 <br>
+Author - Saurav Kumar Roy (https://github.com/Sauravroy34)
 
