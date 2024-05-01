@@ -1,5 +1,5 @@
 from tkinter import *
-from speedtest import Speedtest
+from speedtest import Speedtest # first do pip unistall speedtest then do pip install 
 
 root = Tk()
 root.title("Internet Speed Checker")
@@ -7,6 +7,7 @@ root.geometry('1920x1080')
 root.resizable(True,True)
 
 def get_speed():
+
     speed = Speedtest()
     download = speed.download()
     upload = speed.upload()

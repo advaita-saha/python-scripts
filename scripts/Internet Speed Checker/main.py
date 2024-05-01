@@ -1,6 +1,6 @@
 # Internet Speed Checker
 
-import speedtest
+import speedtest # first run pip uninstall speedtest then run pip install speedtest-cli
 import time
 import os
 

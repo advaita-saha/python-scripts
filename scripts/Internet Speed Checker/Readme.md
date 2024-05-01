@@ -7,9 +7,15 @@ This script will check your internet speed and with Download and Upload speed , 
 
 1. Install the Speedtest Package using the following command:
 
-    `pip install speedtest`
+    `pip install speedtest -cli`
+    <br>
+    or simply do
+    <br>
+    `pip install requirments.txt`
+    <br>
+    (make sure you have uninstalled previous version of speedtest using pip unistall speedtest)
+    new documentation: https://pypi.org/project/speedtest-cli/
 
-    Official Documentation: https://pypi.org/project/speedtest/
 
 2. Run the script 
 
